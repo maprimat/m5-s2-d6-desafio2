@@ -5,3 +5,7 @@ Desafío del Módulo 5 | Sección 2 | Día 6 | del curso _**Desarrollo de aplica
 ## Authors
 
 - [@maprimat](https://www.github.com/maprimat)
+
+## Demo
+
+- [Demo en Github Pages](https://maprimat.github.io/m5-s2-d6-desafio2)
